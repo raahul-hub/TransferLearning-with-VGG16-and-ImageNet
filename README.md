@@ -35,7 +35,6 @@ VGG16's architecture consists of 16 layers, organized into five blocks:
 ### 5. Scene Understanding
    - VGG16's architecture makes it effective for scene understanding tasks, where the goal is to recognize and understand the content and context of an image. This is valuable in applications like autonomous vehicles and robotics.
 
-## Conclusion
 
-VGG16, trained on the ImageNet dataset, has proven to be a robust and versatile architecture for image classification tasks. Its simplicity, coupled with its ability to capture both low-level and high-level features, makes it a popular choice for a wide range of computer vision applications, from basic image classification to more complex tasks like object detection and scene understanding.
+In short, VGG16, trained on the ImageNet dataset, has proven to be a robust and versatile architecture for image classification tasks. Its simplicity, coupled with its ability to capture both low-level and high-level features, makes it a popular choice for a wide range of computer vision applications, from basic image classification to more complex tasks like object detection and scene understanding.
 
