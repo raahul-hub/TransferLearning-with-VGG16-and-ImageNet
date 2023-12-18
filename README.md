@@ -10,7 +10,7 @@
 
 ## VGG16 Architecture
 
-VGG16's architecture consists of 16 layers, organized into five blocks:
+VGG16's architecture consists of 16 layers, organized into various blocks:
 
 1. **Convolutional Blocks:**
    - Consist of convolutional layers with 3x3 filters and max-pooling layers (2x2) for downsampling. The number of filters increases with the depth of the network.
